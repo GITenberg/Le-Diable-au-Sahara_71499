@@ -1,0 +1,37 @@
+_repo: Le-Diable-au-Sahara_71499
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mille, Pierre
+    birthdate: 1864
+    deathdate: 1941
+    gutenberg_agent_id: '6263'
+    url: http://www.gutenberg.org/2009/agents/6263
+    wikipedia: https://fr.wikipedia.org/wiki/Pierre_Mille
+description: ''
+gutenberg_issued: '2023-08-27'
+identifiers:
+  gutenberg: '71499'
+language: fr
+pgterms:marc904: https://polona.pl/item/le-diable-au-sahara,MTQ5NzI0MTk3
+pgterms:marc905: 20230408012325mille
+pgterms:marc906: '1925'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This file was produced from images generously made
+  available by the Polona digital library)
+publication_note: '  $aParis :$bAlbin Michel, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, French'
+- !lcsh 'French fiction -- 20th century'
+- !lcc 'PQ'
+- GITenberg
+tableOfContents: 'Le Diable au Sahara -- Le mammouth -- Le manteau de plumes -- L''ombre
+  de Byron -- Du berger à la bergère -- Le parfum -- La Mer: La mine. Un gabier exceptionnel.
+  Un cimetière. Les cachalots -- Ceux d''en Face: Anna Mac Fergus, écossaise. La confidence
+  du Tommy. L''espion. Les conversions de Rivett. Tom Kettle, australien. Le singe
+  et les Écossais. Deux mille ans plus tard... Trois révérences...'
+title: Le Diable au Sahara
+url: http://www.gutenberg.org/ebooks/71499
